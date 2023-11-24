@@ -1,4 +1,4 @@
-
+//EDROTE
 import React, { useState } from 'react';
 import { View, StyleSheet, Text, Image, TextInput, TouchableOpacity } from 'react-native';
 import { signOut } from 'firebase/auth';
