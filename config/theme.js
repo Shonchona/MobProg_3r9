@@ -1,3 +1,4 @@
+//EDROTE
 export const Colors = {
   darkblue: '#010C80',
   blue: '#039be5',
